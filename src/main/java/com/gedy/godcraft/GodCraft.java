@@ -18,8 +18,9 @@ public class GodCraft
     
     @SidedProxy(clientSide="com.gedy.godcraft.ClientProxy", serverSide="com.gedy.godcraft.ServerProxy")
     public static CommonProxy proxy;
-    
-    @Mod.Instance("God_Craft")
+
+    //This needs to be your modid not just some random string
+    @Mod.Instance(GodCraft.MODID)
     public static GodCraft instance;
     
     @Mod.EventHandler

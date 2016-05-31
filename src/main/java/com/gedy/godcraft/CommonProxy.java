@@ -17,7 +17,7 @@ public class CommonProxy {
     }
 
     public void init(FMLInitializationEvent event) {
-    	NetworkRegistry.INSTANCE.registerGuiHandler(GodCraft.instance, new ModGUIHandler());
+        NetworkRegistry.INSTANCE.registerGuiHandler(GodCraft.instance, new ModGUIHandler());
     }
 
     public void postInit(FMLPostInitializationEvent event) {
