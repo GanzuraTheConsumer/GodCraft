@@ -19,8 +19,8 @@ public class GodCraft
     @SidedProxy(clientSide="com.gedy.godcraft.ClientProxy", serverSide="com.gedy.godcraft.ServerProxy")
     public static CommonProxy proxy;
     
-    @Mod.Instance("God_Craft")
-    public static GodCraft instance;
+    @Mod.Instance("godcraft")
+    public static GodCraft instance = new GodCraft();
     
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event)

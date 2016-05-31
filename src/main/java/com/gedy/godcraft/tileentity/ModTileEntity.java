@@ -45,7 +45,7 @@ public class ModTileEntity extends TileEntity implements IInventory {
     
     @Override
     public int getSizeInventory() {//slot count of inventory
-        return 4;
+        return 5;
     }
     
     @Override
