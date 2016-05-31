@@ -1,9 +1,0 @@
-[18:29:47] [Client thread/INFO]: Setting user: Player873
-[18:29:51] [Client thread/INFO]: LWJGL Version: 2.9.4
-[18:29:54] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:GodCraft
-[18:29:55] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[18:29:55] [Thread-9/INFO]: Initializing LWJGL OpenAL
-[18:29:55] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[18:29:55] [Thread-9/INFO]: OpenAL initialized.
-[18:29:56] [Sound Library Loader/INFO]: Sound engine started
-[18:30:00] [Client thread/INFO]: Created: 16x16 textures-atlas
