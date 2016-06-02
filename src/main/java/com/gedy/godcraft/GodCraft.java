@@ -14,7 +14,7 @@ public class GodCraft
 {
 	public static final String NAME = "GodCraft";
     public static final String MODID = "godcraft";
-    public static final String VERSION = "1.8.9-A3";
+    public static final String VERSION = "1.8.9-A4";
     
     @SidedProxy(clientSide="com.gedy.godcraft.ClientProxy", serverSide="com.gedy.godcraft.ServerProxy")
     public static CommonProxy proxy;
