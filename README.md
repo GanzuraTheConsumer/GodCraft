@@ -1,0 +1,2 @@
+# GodCraft
+Simple Minecraft mod
